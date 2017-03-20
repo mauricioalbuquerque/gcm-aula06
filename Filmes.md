@@ -6,9 +6,8 @@
 * Logan
 * Animais fantasticos e onde habitam
 * O chamado 3
-* Fallen
 
-*Star Wars
+* Star Wars
 * velozes e furiosos 8
 * dead pool 
 * corrida moral 
@@ -20,3 +19,6 @@
 * Homem de Ferro
 * Doutor Estranho
 * Os Vingadores 
+* Furia em duas rodas
+* Os Vingadores
+* Need For Speed
