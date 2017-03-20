@@ -1,7 +1,5 @@
 #Lista de Filmes 
 
-
-
 * Rougue One
 * Logan
 * Animais fantasticos e onde habitam
@@ -22,3 +20,12 @@
 * Furia em duas rodas
 * Os Vingadores
 * Need For Speed
+
+* Cavaleiro dos Zodiacos
+* Final fantasy
+* Hunter X Hunter
+* Yu Yu Hakusho
+* MetalFullAlchemist
+* Naruto
+* DBZ
+
