@@ -4,7 +4,8 @@ Ferramentas de controle de versão:
 
 * RCS
 * CVS
-* D\purce Safe
+* Source Safe
+* Clear Case 
 * SVN
 * Mercurial
 * Git
