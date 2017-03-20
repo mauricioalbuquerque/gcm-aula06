@@ -15,3 +15,8 @@
 * breaking bad 
 * olha o gás
 
+* Matrix
+* Capitão América
+* Homem de Ferro
+* Doutor Estranho
+* Os Vingadores 
