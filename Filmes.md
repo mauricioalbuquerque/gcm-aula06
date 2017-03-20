@@ -7,8 +7,7 @@
 * Animais fantasticos e onde habitam
 * O chamado 3
 * Fallen
-
-*Star Wars
+* Star Wars
 * velozes e furiosos 8
 * dead pool 
 * corrida moral 
