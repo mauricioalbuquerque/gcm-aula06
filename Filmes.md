@@ -1,5 +1,6 @@
 #Lista de Filmes 
 
+
 *Star Wars
 * Deadpool
 * Logan
@@ -13,3 +14,26 @@
 * Thor Ragnarok
 * Doutor Estranho
 * Deadpool II
+
+
+
+* Rougue One
+
+* Animais fantasticos e onde habitam
+* O chamado 3
+
+* Star Wars
+* velozes e furiosos 8
+
+* corrida moral 
+* breaking bad 
+* olha o gás
+
+* Matrix
+* Capitão América
+* Homem de Ferro
+
+
+* Furia em duas rodas
+
+* Need For Speed
