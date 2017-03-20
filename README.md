@@ -7,4 +7,5 @@ Ferramentas de controle de versão:
 * D\purce Safe
 * SVN
 * Mercurial
+* Perforce
 * Git
