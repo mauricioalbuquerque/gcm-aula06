@@ -1,7 +1,8 @@
 #Lista de Filmes 
 
 
-*Star Wars
+* Star Wars
+
 * Deadpool
 * Logan
 * Vingadores I
@@ -14,6 +15,7 @@
 * Thor Ragnarok
 * Doutor Estranho
 * Deadpool II
+
 
 
 
@@ -37,3 +39,12 @@
 * Furia em duas rodas
 
 * Need For Speed
+
+* Cavaleiro dos Zodiacos
+* Final fantasy
+* Hunter X Hunter
+* Yu Yu Hakusho
+* MetalFullAlchemist
+* Naruto
+* DBZ
+
